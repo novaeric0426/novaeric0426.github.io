@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/novaeric0426/novaeric0426.github.io.git
 	branch = source
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
