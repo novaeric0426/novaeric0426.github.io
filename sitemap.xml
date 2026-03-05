@@ -2,17 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
-    <lastmod>2026-03-05T15:24:47+09:00</lastmod>
+    <loc>https://novaeric0426.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-05T15:24:47+09:00</lastmod>
+    <loc>https://novaeric0426.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-03-05T15:24:47+09:00</lastmod>
+    <loc>https://novaeric0426.github.io/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://novaeric0426.github.io/tags/</loc>
   </url>
 </urlset>
