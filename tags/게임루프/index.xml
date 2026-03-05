@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>게임루프 on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/%EA%B2%8C%EC%9E%84%EB%A3%A8%ED%94%84/</link>
+    <description>Recent content in 게임루프 on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Mar 2026 18:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/%EA%B2%8C%EC%9E%84%EB%A3%A8%ED%94%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPS 개발일지 #12 — 고정 타임스텝 시뮬레이션</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-12-fixed-timestep/</link>
+      <pubDate>Sun, 01 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-12-fixed-timestep/</guid>
+      <description>프레임 의존적이던 게임 루프를 60Hz 고정 타임스텝으로 전환한다. 서버와 동일한 틱 레이트로 시뮬레이션하기 위한 기반.</description>
+    </item>
+  </channel>
+</rss>

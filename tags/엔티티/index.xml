@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>엔티티 on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/%EC%97%94%ED%8B%B0%ED%8B%B0/</link>
+    <description>Recent content in 엔티티 on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Feb 2026 18:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/%EC%97%94%ED%8B%B0%ED%8B%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPS 개발일지 #11 — 엔티티 ID 시스템</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-11-entity-id/</link>
+      <pubDate>Sat, 28 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-11-entity-id/</guid>
+      <description>배열 인덱스 대신 고유 ID로 엔티티를 식별한다. 네트워크 동기화에서 안전한 엔티티 매칭의 기반.</description>
+    </item>
+  </channel>
+</rss>

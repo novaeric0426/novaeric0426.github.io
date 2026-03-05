@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub Pages on Eric&#39;s Dev Blog</title>
+    <link>http://localhost:51275/tags/github-pages/</link>
+    <description>Recent content in GitHub Pages on Eric&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Mar 2026 15:24:47 +0900</lastBuildDate>
+    <atom:link href="http://localhost:51275/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo &#43; GitHub Pages로 개발 블로그 시작하기</title>
+      <link>http://localhost:51275/posts/hello-world/</link>
+      <pubDate>Thu, 05 Mar 2026 15:24:47 +0900</pubDate>
+      <guid>http://localhost:51275/posts/hello-world/</guid>
+      <description>Hugo와 PaperMod 테마를 이용해 GitHub Pages에 무료로 개발 블로그를 구축하는 방법을 소개합니다.</description>
+    </item>
+  </channel>
+</rss>

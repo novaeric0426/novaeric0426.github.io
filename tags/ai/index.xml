@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/ai/</link>
+    <description>Recent content in AI on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Feb 2026 18:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPS 개발일지 #08 — Chase AI: 감지/추적/복귀 상태 머신</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-08-chase-ai/</link>
+      <pubDate>Sat, 21 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-08-chase-ai/</guid>
+      <description>패트롤 AI에 플레이어 감지, 추적, 복귀 상태를 추가한다. 히스테리시스로 상태 떨림을 방지하는 방법까지.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #06 — AI 타겟 패트롤 시스템</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-06-patrol-ai/</link>
+      <pubDate>Sun, 15 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-06-patrol-ai/</guid>
+      <description>웨이포인트 기반 핑퐁 패트롤 AI 구현. 고정된 더미 타겟에서 움직이는 타겟으로.</description>
+    </item>
+  </channel>
+</rss>

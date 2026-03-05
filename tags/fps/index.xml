@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FPS on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/fps/</link>
+    <description>Recent content in FPS on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Mar 2026 18:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/fps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPS 개발일지 #17 — PvP 전투: 플레이어 간 히트스캔</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-17-pvp-combat/</link>
+      <pubDate>Wed, 04 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-17-pvp-combat/</guid>
+      <description>히트스캔 시스템을 확장해서 플레이어끼리 총을 쏘고 죽일 수 있게 한다. Hit_Type으로 타겟과 플레이어 히트를 구분한다.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #16 — 엔티티 보간</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-16-entity-interpolation/</link>
+      <pubDate>Tue, 03 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-16-entity-interpolation/</guid>
+      <description>60Hz 스냅샷 사이를 보간해서 다른 플레이어와 AI 타겟을 부드럽게 렌더링한다.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #15 — 클라이언트 사이드 예측과 서버 보정</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-15-prediction-reconciliation/</link>
+      <pubDate>Mon, 02 Mar 2026 19:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-15-prediction-reconciliation/</guid>
+      <description>입력 지연 없는 즉각적 이동을 위한 클라이언트 사이드 예측, 서버 스냅샷과의 보정(reconciliation)을 구현한다.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #14 — 멀티플레이어 플레이어 슬롯</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-14-multiplayer-slots/</link>
+      <pubDate>Mon, 02 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-14-multiplayer-slots/</guid>
+      <description>단일 플레이어 구조를 MAX_PLAYERS 배열로 확장한다. 접속/해제 시 슬롯 할당, 다른 플레이어 렌더링까지.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #13 — UDP 네트워킹과 권위 서버</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-13-udp-authoritative-server/</link>
+      <pubDate>Sun, 01 Mar 2026 19:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-13-udp-authoritative-server/</guid>
+      <description>UDP 소켓 통신, 패킷 프로토콜, 전용 서버/클라이언트 구조를 구현한다. 권위 서버 아키텍처의 기본.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #12 — 고정 타임스텝 시뮬레이션</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-12-fixed-timestep/</link>
+      <pubDate>Sun, 01 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-12-fixed-timestep/</guid>
+      <description>프레임 의존적이던 게임 루프를 60Hz 고정 타임스텝으로 전환한다. 서버와 동일한 틱 레이트로 시뮬레이션하기 위한 기반.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #11 — 엔티티 ID 시스템</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-11-entity-id/</link>
+      <pubDate>Sat, 28 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-11-entity-id/</guid>
+      <description>배열 인덱스 대신 고유 ID로 엔티티를 식별한다. 네트워크 동기화에서 안전한 엔티티 매칭의 기반.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #10 — 직렬화 가능한 게임 상태</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-10-serializable-state/</link>
+      <pubDate>Fri, 27 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-10-serializable-state/</guid>
+      <description>네트워크 전송을 위해 게임 상태를 POD 구조체로 추출하고, mem.copy 기반 직렬화를 구현한다.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #09 — 입력/시뮬레이션/렌더링 분리</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-09-input-decoupling/</link>
+      <pubDate>Mon, 23 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-09-input-decoupling/</guid>
+      <description>멀티플레이어를 위해 Raylib 직접 호출을 걷어내고, 입력 → 시뮬레이션 → 렌더링 파이프라인으로 분리한다.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #08 — Chase AI: 감지/추적/복귀 상태 머신</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-08-chase-ai/</link>
+      <pubDate>Sat, 21 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-08-chase-ai/</guid>
+      <description>패트롤 AI에 플레이어 감지, 추적, 복귀 상태를 추가한다. 히스테리시스로 상태 떨림을 방지하는 방법까지.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #07 — 무기 전환 시스템 (권총/소총/샷건)</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-07-weapon-switching/</link>
+      <pubDate>Thu, 19 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-07-weapon-switching/</guid>
+      <description>3종 무기의 설계, Weapon_Config 기반 스탯 관리, 샷건 멀티 펠릿, 무기 전환 딜레이 구현.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #06 — AI 타겟 패트롤 시스템</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-06-patrol-ai/</link>
+      <pubDate>Sun, 15 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-06-patrol-ai/</guid>
+      <description>웨이포인트 기반 핑퐁 패트롤 AI 구현. 고정된 더미 타겟에서 움직이는 타겟으로.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #05 — 히트마커와 데미지 넘버</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-05-hit-feedback/</link>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-05-hit-feedback/</guid>
+      <description>히트마커 X 오버레이와 플로팅 데미지 넘버로 사격 피드백을 강화한다.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #04 — 플레이어 HP, 데미지, 죽음과 리스폰</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-04-hp-death-respawn/</link>
+      <pubDate>Tue, 10 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-04-hp-death-respawn/</guid>
+      <description>체력 시스템, 데미지 처리, 사망/리스폰 로직 구현. 죽으면 2초 뒤 자동으로 되살아나는 리스폰 시스템.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #03 — AABB 슬라이드 콜리전</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-03-collision/</link>
+      <pubDate>Fri, 06 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-03-collision/</guid>
+      <description>축별 이동과 롤백으로 구현하는 AABB 충돌 처리. 벽에 부딪혀도 미끄러지듯 움직이는 슬라이드 콜리전.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #02 — 총기 시스템과 히트스캔 구현</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-02-gun-hitscan/</link>
+      <pubDate>Thu, 05 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-02-gun-hitscan/</guid>
+      <description>3D 모델 로딩, 카메라 기반 총기 배치, 히트스캔 레이캐스팅, 그리고 총기 회전 버그 수정까지.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #01 — Odin &#43; Raylib으로 3D FPS 만들기</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-01-project-setup/</link>
+      <pubDate>Sun, 01 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-01-project-setup/</guid>
+      <description>Odin 언어와 Raylib을 선택한 이유, 프로젝트 초기 세팅, 1인칭 카메라와 이동 시스템 구현까지의 기록.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://novaeric0426.github.io/sitemap.xml

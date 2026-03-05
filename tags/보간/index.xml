@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>보간 on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/%EB%B3%B4%EA%B0%84/</link>
+    <description>Recent content in 보간 on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Mar 2026 18:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/%EB%B3%B4%EA%B0%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPS 개발일지 #16 — 엔티티 보간</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-16-entity-interpolation/</link>
+      <pubDate>Tue, 03 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-16-entity-interpolation/</guid>
+      <description>60Hz 스냅샷 사이를 보간해서 다른 플레이어와 AI 타겟을 부드럽게 렌더링한다.</description>
+    </item>
+  </channel>
+</rss>

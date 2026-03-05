@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>보정 on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/%EB%B3%B4%EC%A0%95/</link>
+    <description>Recent content in 보정 on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Mar 2026 19:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/%EB%B3%B4%EC%A0%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPS 개발일지 #15 — 클라이언트 사이드 예측과 서버 보정</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-15-prediction-reconciliation/</link>
+      <pubDate>Mon, 02 Mar 2026 19:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-15-prediction-reconciliation/</guid>
+      <description>입력 지연 없는 즉각적 이동을 위한 클라이언트 사이드 예측, 서버 스냅샷과의 보정(reconciliation)을 구현한다.</description>
+    </item>
+  </channel>
+</rss>

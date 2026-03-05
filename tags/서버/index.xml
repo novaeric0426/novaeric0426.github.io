@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>서버 on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/%EC%84%9C%EB%B2%84/</link>
+    <description>Recent content in 서버 on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Mar 2026 19:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/%EC%84%9C%EB%B2%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPS 개발일지 #13 — UDP 네트워킹과 권위 서버</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-13-udp-authoritative-server/</link>
+      <pubDate>Sun, 01 Mar 2026 19:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-13-udp-authoritative-server/</guid>
+      <description>UDP 소켓 통신, 패킷 프로토콜, 전용 서버/클라이언트 구조를 구현한다. 권위 서버 아키텍처의 기본.</description>
+    </item>
+  </channel>
+</rss>

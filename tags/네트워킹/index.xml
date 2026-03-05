@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>네트워킹 on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9/</link>
+    <description>Recent content in 네트워킹 on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Mar 2026 18:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPS 개발일지 #16 — 엔티티 보간</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-16-entity-interpolation/</link>
+      <pubDate>Tue, 03 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-16-entity-interpolation/</guid>
+      <description>60Hz 스냅샷 사이를 보간해서 다른 플레이어와 AI 타겟을 부드럽게 렌더링한다.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #15 — 클라이언트 사이드 예측과 서버 보정</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-15-prediction-reconciliation/</link>
+      <pubDate>Mon, 02 Mar 2026 19:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-15-prediction-reconciliation/</guid>
+      <description>입력 지연 없는 즉각적 이동을 위한 클라이언트 사이드 예측, 서버 스냅샷과의 보정(reconciliation)을 구현한다.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #14 — 멀티플레이어 플레이어 슬롯</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-14-multiplayer-slots/</link>
+      <pubDate>Mon, 02 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-14-multiplayer-slots/</guid>
+      <description>단일 플레이어 구조를 MAX_PLAYERS 배열로 확장한다. 접속/해제 시 슬롯 할당, 다른 플레이어 렌더링까지.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #13 — UDP 네트워킹과 권위 서버</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-13-udp-authoritative-server/</link>
+      <pubDate>Sun, 01 Mar 2026 19:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-13-udp-authoritative-server/</guid>
+      <description>UDP 소켓 통신, 패킷 프로토콜, 전용 서버/클라이언트 구조를 구현한다. 권위 서버 아키텍처의 기본.</description>
+    </item>
+    <item>
+      <title>FPS 개발일지 #10 — 직렬화 가능한 게임 상태</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-10-serializable-state/</link>
+      <pubDate>Fri, 27 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-10-serializable-state/</guid>
+      <description>네트워크 전송을 위해 게임 상태를 POD 구조체로 추출하고, mem.copy 기반 직렬화를 구현한다.</description>
+    </item>
+  </channel>
+</rss>
