@@ -2,3 +2,5 @@ baseURL = "https://novaeric0426.github.io/"
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = "PaperMod"
+[params]
+  author = "Eric"
