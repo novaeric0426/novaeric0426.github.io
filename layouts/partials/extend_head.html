@@ -1,0 +1,21 @@
+{{- /* Custom CSS */ -}}
+<link rel="stylesheet" href="/css/custom.css">
+
+{{- /* Reading progress bar (single post only) */ -}}
+{{ if .IsPage }}
+<div id="reading-progress"></div>
+<script>
+  window.addEventListener('scroll', () => {
+    const el = document.getElementById('reading-progress');
+    if (!el) return;
+    const scrollTop = window.scrollY;
+    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    el.style.width = (docHeight > 0 ? (scrollTop / docHeight) * 100 : 0) + '%';
+  });
+</script>
+{{ end }}
+
+{{- /* Open Graph / meta description */ -}}
+{{ if .IsPage }}
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary | truncate 160 }}{{ end }}">
+{{ end }}

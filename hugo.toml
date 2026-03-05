@@ -1,6 +1,121 @@
 baseURL = "https://novaeric0426.github.io/"
-languageCode = 'en-us'
-title = 'My New Hugo Project'
+languageCode = "en"
+title = "Alan's Dev Blog"
 theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
 [params]
-  author = "Eric"
+  author = "Alan"
+  description = "개발 경험과 배움을 기록하는 공간"
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = false
+  ShowFullTextinRSS = false
+  disableScrollToTop = false
+  hidemeta = false
+  comments = false
+  DateFormat = "2006-01-02"
+
+  [params.profileMode]
+    enabled = true
+    title = "Alan"
+    subtitle = "Software Engineer | Iterate over and over"
+    imageUrl = "https://github.com/novaeric0426.png"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Alan's avatar"
+
+    [[params.profileMode.buttons]]
+      name = "Posts"
+      url = "/posts"
+
+    [[params.profileMode.buttons]]
+      name = "Tags"
+      url = "/tags"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/novaeric0426"
+
+  [[params.socialIcons]]
+    name = "cv"
+    url = "https://drive.google.com/file/d/1rCia6W1Rs2hKnnI8ffTwh2yvD7hUKE_L/view?usp=sharing"
+
+  [params.label]
+    text = "Alan.dev"
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    limit = 10
+    keys = ["title", "permalink", "summary", "content"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 50
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = false
+    style = "monokai"
+    tabWidth = 2
