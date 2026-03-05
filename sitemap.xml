@@ -2,12 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://novaeric0426.github.io/categories/</loc>
-  </url><url>
     <loc>https://novaeric0426.github.io/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/tags/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/test/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/test-post/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/categories/</loc>
   </url>
 </urlset>
