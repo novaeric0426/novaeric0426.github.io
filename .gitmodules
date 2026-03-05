@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/novaeric0426/novaeric0426.github.io.git
+	branch = source
