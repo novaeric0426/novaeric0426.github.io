@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-virtual-address-space/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/categories/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/categories/os/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/os/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/os-%EC%9A%A9%EC%96%B4/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/ostep/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/series/ostep-%EC%A0%95%EB%A6%AC/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/series/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/</loc>
+    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch45-data-integrity-and-protection/</loc>
     <lastmod>2026-03-05T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://novaeric0426.github.io/</loc>
-    <lastmod>2026-03-05T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/categories/</loc>
-    <lastmod>2026-03-05T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/categories/os/</loc>
-    <lastmod>2026-03-05T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/os/</loc>
-    <lastmod>2026-03-05T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/ostep/</loc>
-    <lastmod>2026-03-05T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/series/ostep-%EC%A0%95%EB%A6%AC/</loc>
-    <lastmod>2026-03-05T10:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://novaeric0426.github.io/tags/persistence/</loc>
-    <lastmod>2026-03-05T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/posts/</loc>
-    <lastmod>2026-03-05T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/series/</loc>
-    <lastmod>2026-03-05T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/</loc>
     <lastmod>2026-03-05T10:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/tags/fps/</loc>
@@ -64,6 +70,9 @@
   </url><url>
     <loc>https://novaeric0426.github.io/tags/%ED%9E%88%ED%8A%B8%EC%8A%A4%EC%BA%94/</loc>
     <lastmod>2026-03-04T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-user-mode/</loc>
+    <lastmod>2026-03-03T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-16-entity-interpolation/</loc>
     <lastmod>2026-03-03T18:00:00+09:00</lastmod>
@@ -107,6 +116,9 @@
     <loc>https://novaeric0426.github.io/tags/%ED%83%80%EC%9E%84%EC%8A%A4%ED%85%9D/</loc>
     <lastmod>2026-03-01T18:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-trap/</loc>
+    <lastmod>2026-02-28T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-11-entity-id/</loc>
     <lastmod>2026-02-28T18:00:00+09:00</lastmod>
   </url><url>
@@ -122,8 +134,14 @@
     <loc>https://novaeric0426.github.io/tags/%EC%A7%81%EB%A0%AC%ED%99%94/</loc>
     <lastmod>2026-02-27T18:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-time-sharing/</loc>
+    <lastmod>2026-02-26T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch42-crash-consistency-fsck-and-journaling/</loc>
     <lastmod>2026-02-26T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-thread/</loc>
+    <lastmod>2026-02-24T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-09-input-decoupling/</loc>
     <lastmod>2026-02-23T18:00:00+09:00</lastmod>
@@ -133,6 +151,9 @@
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch41-fast-file-system-ffs/</loc>
     <lastmod>2026-02-23T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-tlb/</loc>
+    <lastmod>2026-02-21T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/tags/ai/</loc>
     <lastmod>2026-02-21T18:00:00+09:00</lastmod>
@@ -146,6 +167,9 @@
     <loc>https://novaeric0426.github.io/posts/ostep-ch40-file-system-implementation/</loc>
     <lastmod>2026-02-21T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-system-call/</loc>
+    <lastmod>2026-02-19T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-07-weapon-switching/</loc>
     <lastmod>2026-02-19T18:00:00+09:00</lastmod>
   </url><url>
@@ -155,14 +179,23 @@
     <loc>https://novaeric0426.github.io/posts/ostep-ch39-files-and-directories/</loc>
     <lastmod>2026-02-19T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-swapping/</loc>
+    <lastmod>2026-02-17T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch38-raids/</loc>
     <lastmod>2026-02-16T10:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-06-patrol-ai/</loc>
     <lastmod>2026-02-15T18:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-superblock/</loc>
+    <lastmod>2026-02-14T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch37-hard-disk-drives/</loc>
     <lastmod>2026-02-14T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-spin-lock/</loc>
+    <lastmod>2026-02-12T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-05-hit-feedback/</loc>
     <lastmod>2026-02-12T18:00:00+09:00</lastmod>
@@ -173,6 +206,9 @@
     <loc>https://novaeric0426.github.io/posts/ostep-ch36-io-devices/</loc>
     <lastmod>2026-02-12T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-space-sharing/</loc>
+    <lastmod>2026-02-10T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-04-hp-death-respawn/</loc>
     <lastmod>2026-02-10T18:00:00+09:00</lastmod>
   </url><url>
@@ -181,6 +217,9 @@
   </url><url>
     <loc>https://novaeric0426.github.io/tags/concurrency/</loc>
     <lastmod>2026-02-09T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-semaphore/</loc>
+    <lastmod>2026-02-07T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch32-common-concurrency-problems/</loc>
     <lastmod>2026-02-07T10:00:00+09:00</lastmod>
@@ -191,11 +230,17 @@
     <loc>https://novaeric0426.github.io/tags/%EC%B6%A9%EB%8F%8C%EC%B2%98%EB%A6%AC/</loc>
     <lastmod>2026-02-06T18:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-segmentation/</loc>
+    <lastmod>2026-02-05T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-02-gun-hitscan/</loc>
     <lastmod>2026-02-05T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch31-semaphores/</loc>
     <lastmod>2026-02-05T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-scheduling-policy/</loc>
+    <lastmod>2026-02-03T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch30-condition-variables/</loc>
     <lastmod>2026-02-02T10:00:00+09:00</lastmod>
@@ -203,17 +248,32 @@
     <loc>https://novaeric0426.github.io/posts/fps-devlog-01-project-setup/</loc>
     <lastmod>2026-02-01T18:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-race-condition/</loc>
+    <lastmod>2026-01-31T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch29-lock-based-concurrent-data-structures/</loc>
     <lastmod>2026-01-31T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-raid/</loc>
+    <lastmod>2026-01-29T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch28-locks/</loc>
     <lastmod>2026-01-29T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-process/</loc>
+    <lastmod>2026-01-27T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch27-interlude---thread-api/</loc>
     <lastmod>2026-01-26T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-page-table/</loc>
+    <lastmod>2026-01-24T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch26-concurrency---an-introduction/</loc>
     <lastmod>2026-01-24T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-page-fault/</loc>
+    <lastmod>2026-01-22T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch23-complete-virtual-memory-systems/</loc>
     <lastmod>2026-01-22T10:00:00+09:00</lastmod>
@@ -221,59 +281,116 @@
     <loc>https://novaeric0426.github.io/tags/virtualization/</loc>
     <lastmod>2026-01-22T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-pcb-process-control-block/</loc>
+    <lastmod>2026-01-20T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch22-beyond-physical-memory---policies/</loc>
     <lastmod>2026-01-19T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-mechanism-vs-policy/</loc>
+    <lastmod>2026-01-17T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch21-beyond-physical-memory---mechanisms/</loc>
     <lastmod>2026-01-17T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-lock-mutex/</loc>
+    <lastmod>2026-01-15T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch20-paging---smaller-tables/</loc>
     <lastmod>2026-01-15T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-journaling/</loc>
+    <lastmod>2026-01-13T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch19-paging---faster-translations-tlbs/</loc>
     <lastmod>2026-01-12T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-interrupt/</loc>
+    <lastmod>2026-01-10T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch18-introduction-to-paging/</loc>
     <lastmod>2026-01-10T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-inode/</loc>
+    <lastmod>2026-01-08T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch17-free-space-management/</loc>
     <lastmod>2026-01-08T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-file-system/</loc>
+    <lastmod>2026-01-06T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch16-segmentation/</loc>
     <lastmod>2026-01-05T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-device-driver/</loc>
+    <lastmod>2026-01-03T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch15-mechanism---address-translation/</loc>
     <lastmod>2026-01-03T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-deadlock/</loc>
+    <lastmod>2026-01-01T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch14-interlude---memory-api/</loc>
     <lastmod>2026-01-01T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-dma/</loc>
+    <lastmod>2025-12-30T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch13-the-abstraction---address-spaces/</loc>
     <lastmod>2025-12-29T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-critical-section/</loc>
+    <lastmod>2025-12-27T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch10-multiprocessor-scheduling/</loc>
     <lastmod>2025-12-27T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-copy-on-write/</loc>
+    <lastmod>2025-12-25T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch09-scheduling---proportional-share/</loc>
     <lastmod>2025-12-25T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-context-switch/</loc>
+    <lastmod>2025-12-23T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch08-scheduling---the-multi-level-feedback-queue/</loc>
     <lastmod>2025-12-22T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-condition-variable/</loc>
+    <lastmod>2025-12-20T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch07-scheduling---introduction/</loc>
     <lastmod>2025-12-20T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-compare-and-swap-cas/</loc>
+    <lastmod>2025-12-18T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch06-mechanism---limited-direct-execution/</loc>
     <lastmod>2025-12-18T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-buffer-cache/</loc>
+    <lastmod>2025-12-16T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch05-interlude---process-api/</loc>
     <lastmod>2025-12-15T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-atomic-operation/</loc>
+    <lastmod>2025-12-13T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch04-the-abstraction---the-process/</loc>
     <lastmod>2025-12-13T10:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-address-translation/</loc>
+    <lastmod>2025-12-11T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch02-introduction-to-operating-systems/</loc>
     <lastmod>2025-12-11T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-address-space/</loc>
+    <lastmod>2025-12-09T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/about/</loc>
   </url><url>

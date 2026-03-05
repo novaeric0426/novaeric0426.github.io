@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OS 용어 on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/os-%EC%9A%A9%EC%96%B4/</link>
+    <description>Recent content in OS 용어 on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Mar 2026 18:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/os-%EC%9A%A9%EC%96%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[OSTEP 용어] Virtual Address Space</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-virtual-address-space/</link>
+      <pubDate>Thu, 05 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-virtual-address-space/</guid>
+      <description>OSTEP 핵심 용어 정리 - Virtual Address Space</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] User Mode</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-user-mode/</link>
+      <pubDate>Tue, 03 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-user-mode/</guid>
+      <description>OSTEP 핵심 용어 정리 - User Mode</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Trap</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-trap/</link>
+      <pubDate>Sat, 28 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-trap/</guid>
+      <description>OSTEP 핵심 용어 정리 - Trap</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Time Sharing</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-time-sharing/</link>
+      <pubDate>Thu, 26 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-time-sharing/</guid>
+      <description>OSTEP 핵심 용어 정리 - Time Sharing</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Thread</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-thread/</link>
+      <pubDate>Tue, 24 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-thread/</guid>
+      <description>OSTEP 핵심 용어 정리 - Thread</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] TLB</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-tlb/</link>
+      <pubDate>Sat, 21 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-tlb/</guid>
+      <description>OSTEP 핵심 용어 정리 - TLB</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] System Call</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-system-call/</link>
+      <pubDate>Thu, 19 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-system-call/</guid>
+      <description>OSTEP 핵심 용어 정리 - System Call</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Swapping</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-swapping/</link>
+      <pubDate>Tue, 17 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-swapping/</guid>
+      <description>OSTEP 핵심 용어 정리 - Swapping</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Superblock</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-superblock/</link>
+      <pubDate>Sat, 14 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-superblock/</guid>
+      <description>OSTEP 핵심 용어 정리 - Superblock</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Spin Lock</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-spin-lock/</link>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-spin-lock/</guid>
+      <description>OSTEP 핵심 용어 정리 - Spin Lock</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Space Sharing</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-space-sharing/</link>
+      <pubDate>Tue, 10 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-space-sharing/</guid>
+      <description>OSTEP 핵심 용어 정리 - Space Sharing</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Semaphore</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-semaphore/</link>
+      <pubDate>Sat, 07 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-semaphore/</guid>
+      <description>OSTEP 핵심 용어 정리 - Semaphore</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Segmentation</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-segmentation/</link>
+      <pubDate>Thu, 05 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-segmentation/</guid>
+      <description>OSTEP 핵심 용어 정리 - Segmentation</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Scheduling Policy</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-scheduling-policy/</link>
+      <pubDate>Tue, 03 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-scheduling-policy/</guid>
+      <description>OSTEP 핵심 용어 정리 - Scheduling Policy</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Race Condition</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-race-condition/</link>
+      <pubDate>Sat, 31 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-race-condition/</guid>
+      <description>OSTEP 핵심 용어 정리 - Race Condition</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] RAID</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-raid/</link>
+      <pubDate>Thu, 29 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-raid/</guid>
+      <description>OSTEP 핵심 용어 정리 - RAID</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Process</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-process/</link>
+      <pubDate>Tue, 27 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-process/</guid>
+      <description>OSTEP 핵심 용어 정리 - Process</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Page Table</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-page-table/</link>
+      <pubDate>Sat, 24 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-page-table/</guid>
+      <description>OSTEP 핵심 용어 정리 - Page Table</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Page Fault</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-page-fault/</link>
+      <pubDate>Thu, 22 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-page-fault/</guid>
+      <description>OSTEP 핵심 용어 정리 - Page Fault</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] PCB (Process Control Block)</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-pcb-process-control-block/</link>
+      <pubDate>Tue, 20 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-pcb-process-control-block/</guid>
+      <description>OSTEP 핵심 용어 정리 - PCB (Process Control Block)</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Mechanism vs Policy</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-mechanism-vs-policy/</link>
+      <pubDate>Sat, 17 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-mechanism-vs-policy/</guid>
+      <description>OSTEP 핵심 용어 정리 - Mechanism vs Policy</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Lock (Mutex)</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-lock-mutex/</link>
+      <pubDate>Thu, 15 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-lock-mutex/</guid>
+      <description>OSTEP 핵심 용어 정리 - Lock (Mutex)</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Journaling</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-journaling/</link>
+      <pubDate>Tue, 13 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-journaling/</guid>
+      <description>OSTEP 핵심 용어 정리 - Journaling</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Interrupt</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-interrupt/</link>
+      <pubDate>Sat, 10 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-interrupt/</guid>
+      <description>OSTEP 핵심 용어 정리 - Interrupt</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Inode</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-inode/</link>
+      <pubDate>Thu, 08 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-inode/</guid>
+      <description>OSTEP 핵심 용어 정리 - Inode</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] File System</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-file-system/</link>
+      <pubDate>Tue, 06 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-file-system/</guid>
+      <description>OSTEP 핵심 용어 정리 - File System</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Device Driver</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-device-driver/</link>
+      <pubDate>Sat, 03 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-device-driver/</guid>
+      <description>OSTEP 핵심 용어 정리 - Device Driver</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Deadlock</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-deadlock/</link>
+      <pubDate>Thu, 01 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-deadlock/</guid>
+      <description>OSTEP 핵심 용어 정리 - Deadlock</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] DMA</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-dma/</link>
+      <pubDate>Tue, 30 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-dma/</guid>
+      <description>OSTEP 핵심 용어 정리 - DMA</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Critical Section</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-critical-section/</link>
+      <pubDate>Sat, 27 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-critical-section/</guid>
+      <description>OSTEP 핵심 용어 정리 - Critical Section</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Copy-on-Write</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-copy-on-write/</link>
+      <pubDate>Thu, 25 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-copy-on-write/</guid>
+      <description>OSTEP 핵심 용어 정리 - Copy-on-Write</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Context Switch</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-context-switch/</link>
+      <pubDate>Tue, 23 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-context-switch/</guid>
+      <description>OSTEP 핵심 용어 정리 - Context Switch</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Condition Variable</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-condition-variable/</link>
+      <pubDate>Sat, 20 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-condition-variable/</guid>
+      <description>OSTEP 핵심 용어 정리 - Condition Variable</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Compare-and-Swap (CAS)</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-compare-and-swap-cas/</link>
+      <pubDate>Thu, 18 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-compare-and-swap-cas/</guid>
+      <description>OSTEP 핵심 용어 정리 - Compare-and-Swap (CAS)</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Buffer Cache</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-buffer-cache/</link>
+      <pubDate>Tue, 16 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-buffer-cache/</guid>
+      <description>OSTEP 핵심 용어 정리 - Buffer Cache</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Atomic Operation</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-atomic-operation/</link>
+      <pubDate>Sat, 13 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-atomic-operation/</guid>
+      <description>OSTEP 핵심 용어 정리 - Atomic Operation</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Address Translation</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-address-translation/</link>
+      <pubDate>Thu, 11 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-address-translation/</guid>
+      <description>OSTEP 핵심 용어 정리 - Address Translation</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Address Space</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-address-space/</link>
+      <pubDate>Tue, 09 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-address-space/</guid>
+      <description>OSTEP 핵심 용어 정리 - Address Space</description>
+    </item>
+  </channel>
+</rss>

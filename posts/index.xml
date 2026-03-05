@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Alan&#39;s Dev Blog</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 10:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 18:00:00 +0900</lastBuildDate>
     <atom:link href="https://novaeric0426.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[OSTEP 용어] Virtual Address Space</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-virtual-address-space/</link>
+      <pubDate>Thu, 05 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-virtual-address-space/</guid>
+      <description>OSTEP 핵심 용어 정리 - Virtual Address Space</description>
+    </item>
     <item>
       <title>[OSTEP] Ch.45 - Data Integrity and Protection</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch45-data-integrity-and-protection/</link>
@@ -21,6 +28,13 @@
       <pubDate>Wed, 04 Mar 2026 18:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/fps-devlog-17-pvp-combat/</guid>
       <description>히트스캔 시스템을 확장해서 플레이어끼리 총을 쏘고 죽일 수 있게 한다. Hit_Type으로 타겟과 플레이어 히트를 구분한다.</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] User Mode</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-user-mode/</link>
+      <pubDate>Tue, 03 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-user-mode/</guid>
+      <description>OSTEP 핵심 용어 정리 - User Mode</description>
     </item>
     <item>
       <title>FPS 개발일지 #16 — 엔티티 보간</title>
@@ -65,6 +79,13 @@
       <description>프레임 의존적이던 게임 루프를 60Hz 고정 타임스텝으로 전환한다. 서버와 동일한 틱 레이트로 시뮬레이션하기 위한 기반.</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Trap</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-trap/</link>
+      <pubDate>Sat, 28 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-trap/</guid>
+      <description>OSTEP 핵심 용어 정리 - Trap</description>
+    </item>
+    <item>
       <title>FPS 개발일지 #11 — 엔티티 ID 시스템</title>
       <link>https://novaeric0426.github.io/posts/fps-devlog-11-entity-id/</link>
       <pubDate>Sat, 28 Feb 2026 18:00:00 +0900</pubDate>
@@ -86,11 +107,25 @@
       <description>네트워크 전송을 위해 게임 상태를 POD 구조체로 추출하고, mem.copy 기반 직렬화를 구현한다.</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Time Sharing</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-time-sharing/</link>
+      <pubDate>Thu, 26 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-time-sharing/</guid>
+      <description>OSTEP 핵심 용어 정리 - Time Sharing</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.42 - Crash Consistency FSCK and Journaling</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch42-crash-consistency-fsck-and-journaling/</link>
       <pubDate>Thu, 26 Feb 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch42-crash-consistency-fsck-and-journaling/</guid>
       <description>OSTEP 영속성 파트 - Crash Consistency FSCK and Journaling 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Thread</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-thread/</link>
+      <pubDate>Tue, 24 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-thread/</guid>
+      <description>OSTEP 핵심 용어 정리 - Thread</description>
     </item>
     <item>
       <title>FPS 개발일지 #09 — 입력/시뮬레이션/렌더링 분리</title>
@@ -107,6 +142,13 @@
       <description>OSTEP 영속성 파트 - Fast File System (FFS) 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] TLB</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-tlb/</link>
+      <pubDate>Sat, 21 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-tlb/</guid>
+      <description>OSTEP 핵심 용어 정리 - TLB</description>
+    </item>
+    <item>
       <title>FPS 개발일지 #08 — Chase AI: 감지/추적/복귀 상태 머신</title>
       <link>https://novaeric0426.github.io/posts/fps-devlog-08-chase-ai/</link>
       <pubDate>Sat, 21 Feb 2026 18:00:00 +0900</pubDate>
@@ -119,6 +161,13 @@
       <pubDate>Sat, 21 Feb 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch40-file-system-implementation/</guid>
       <description>OSTEP 영속성 파트 - File System Implementation 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] System Call</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-system-call/</link>
+      <pubDate>Thu, 19 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-system-call/</guid>
+      <description>OSTEP 핵심 용어 정리 - System Call</description>
     </item>
     <item>
       <title>FPS 개발일지 #07 — 무기 전환 시스템 (권총/소총/샷건)</title>
@@ -135,6 +184,13 @@
       <description>OSTEP 영속성 파트 - Files and Directories 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Swapping</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-swapping/</link>
+      <pubDate>Tue, 17 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-swapping/</guid>
+      <description>OSTEP 핵심 용어 정리 - Swapping</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.38 - RAIDs</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch38-raids/</link>
       <pubDate>Mon, 16 Feb 2026 10:00:00 +0900</pubDate>
@@ -149,11 +205,25 @@
       <description>웨이포인트 기반 핑퐁 패트롤 AI 구현. 고정된 더미 타겟에서 움직이는 타겟으로.</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Superblock</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-superblock/</link>
+      <pubDate>Sat, 14 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-superblock/</guid>
+      <description>OSTEP 핵심 용어 정리 - Superblock</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.37 - Hard Disk Drives</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch37-hard-disk-drives/</link>
       <pubDate>Sat, 14 Feb 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch37-hard-disk-drives/</guid>
       <description>OSTEP 영속성 파트 - Hard Disk Drives 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Spin Lock</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-spin-lock/</link>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-spin-lock/</guid>
+      <description>OSTEP 핵심 용어 정리 - Spin Lock</description>
     </item>
     <item>
       <title>FPS 개발일지 #05 — 히트마커와 데미지 넘버</title>
@@ -170,6 +240,13 @@
       <description>OSTEP 영속성 파트 - I_O Devices 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Space Sharing</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-space-sharing/</link>
+      <pubDate>Tue, 10 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-space-sharing/</guid>
+      <description>OSTEP 핵심 용어 정리 - Space Sharing</description>
+    </item>
+    <item>
       <title>FPS 개발일지 #04 — 플레이어 HP, 데미지, 죽음과 리스폰</title>
       <link>https://novaeric0426.github.io/posts/fps-devlog-04-hp-death-respawn/</link>
       <pubDate>Tue, 10 Feb 2026 18:00:00 +0900</pubDate>
@@ -182,6 +259,13 @@
       <pubDate>Mon, 09 Feb 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch33-event-based-concurrency/</guid>
       <description>OSTEP 동시성 파트 - Event-based Concurrency 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Semaphore</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-semaphore/</link>
+      <pubDate>Sat, 07 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-semaphore/</guid>
+      <description>OSTEP 핵심 용어 정리 - Semaphore</description>
     </item>
     <item>
       <title>[OSTEP] Ch.32 - Common Concurrency Problems</title>
@@ -198,6 +282,13 @@
       <description>축별 이동과 롤백으로 구현하는 AABB 충돌 처리. 벽에 부딪혀도 미끄러지듯 움직이는 슬라이드 콜리전.</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Segmentation</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-segmentation/</link>
+      <pubDate>Thu, 05 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-segmentation/</guid>
+      <description>OSTEP 핵심 용어 정리 - Segmentation</description>
+    </item>
+    <item>
       <title>FPS 개발일지 #02 — 총기 시스템과 히트스캔 구현</title>
       <link>https://novaeric0426.github.io/posts/fps-devlog-02-gun-hitscan/</link>
       <pubDate>Thu, 05 Feb 2026 18:00:00 +0900</pubDate>
@@ -210,6 +301,13 @@
       <pubDate>Thu, 05 Feb 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch31-semaphores/</guid>
       <description>OSTEP 동시성 파트 - Semaphores 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Scheduling Policy</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-scheduling-policy/</link>
+      <pubDate>Tue, 03 Feb 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-scheduling-policy/</guid>
+      <description>OSTEP 핵심 용어 정리 - Scheduling Policy</description>
     </item>
     <item>
       <title>[OSTEP] Ch.30 - Condition Variables</title>
@@ -226,11 +324,25 @@
       <description>Odin 언어와 Raylib을 선택한 이유, 프로젝트 초기 세팅, 1인칭 카메라와 이동 시스템 구현까지의 기록.</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Race Condition</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-race-condition/</link>
+      <pubDate>Sat, 31 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-race-condition/</guid>
+      <description>OSTEP 핵심 용어 정리 - Race Condition</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.29 - Lock-based Concurrent Data Structures</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch29-lock-based-concurrent-data-structures/</link>
       <pubDate>Sat, 31 Jan 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch29-lock-based-concurrent-data-structures/</guid>
       <description>OSTEP 동시성 파트 - Lock-based Concurrent Data Structures 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] RAID</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-raid/</link>
+      <pubDate>Thu, 29 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-raid/</guid>
+      <description>OSTEP 핵심 용어 정리 - RAID</description>
     </item>
     <item>
       <title>[OSTEP] Ch.28 - Locks</title>
@@ -240,11 +352,25 @@
       <description>OSTEP 동시성 파트 - Locks 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Process</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-process/</link>
+      <pubDate>Tue, 27 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-process/</guid>
+      <description>OSTEP 핵심 용어 정리 - Process</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.27 - Interlude - Thread API</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch27-interlude---thread-api/</link>
       <pubDate>Mon, 26 Jan 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch27-interlude---thread-api/</guid>
       <description>OSTEP 동시성 파트 - Interlude - Thread API 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Page Table</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-page-table/</link>
+      <pubDate>Sat, 24 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-page-table/</guid>
+      <description>OSTEP 핵심 용어 정리 - Page Table</description>
     </item>
     <item>
       <title>[OSTEP] Ch.26 - Concurrency - An Introduction</title>
@@ -254,11 +380,25 @@
       <description>OSTEP 동시성 파트 - Concurrency - An Introduction 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Page Fault</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-page-fault/</link>
+      <pubDate>Thu, 22 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-page-fault/</guid>
+      <description>OSTEP 핵심 용어 정리 - Page Fault</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.23 - Complete Virtual Memory Systems</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch23-complete-virtual-memory-systems/</link>
       <pubDate>Thu, 22 Jan 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch23-complete-virtual-memory-systems/</guid>
       <description>OSTEP 메모리 가상화 파트 - Complete Virtual Memory Systems 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] PCB (Process Control Block)</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-pcb-process-control-block/</link>
+      <pubDate>Tue, 20 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-pcb-process-control-block/</guid>
+      <description>OSTEP 핵심 용어 정리 - PCB (Process Control Block)</description>
     </item>
     <item>
       <title>[OSTEP] Ch.22 - Beyond Physical Memory - Policies</title>
@@ -268,11 +408,25 @@
       <description>OSTEP 메모리 가상화 파트 - Beyond Physical Memory - Policies 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Mechanism vs Policy</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-mechanism-vs-policy/</link>
+      <pubDate>Sat, 17 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-mechanism-vs-policy/</guid>
+      <description>OSTEP 핵심 용어 정리 - Mechanism vs Policy</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.21 - Beyond Physical Memory - Mechanisms</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch21-beyond-physical-memory---mechanisms/</link>
       <pubDate>Sat, 17 Jan 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch21-beyond-physical-memory---mechanisms/</guid>
       <description>OSTEP 메모리 가상화 파트 - Beyond Physical Memory - Mechanisms 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Lock (Mutex)</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-lock-mutex/</link>
+      <pubDate>Thu, 15 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-lock-mutex/</guid>
+      <description>OSTEP 핵심 용어 정리 - Lock (Mutex)</description>
     </item>
     <item>
       <title>[OSTEP] Ch.20 - Paging - Smaller Tables</title>
@@ -282,11 +436,25 @@
       <description>OSTEP 메모리 가상화 파트 - Paging - Smaller Tables 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Journaling</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-journaling/</link>
+      <pubDate>Tue, 13 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-journaling/</guid>
+      <description>OSTEP 핵심 용어 정리 - Journaling</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.19 - Paging - Faster Translations (TLBs)</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch19-paging---faster-translations-tlbs/</link>
       <pubDate>Mon, 12 Jan 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch19-paging---faster-translations-tlbs/</guid>
       <description>OSTEP 메모리 가상화 파트 - Paging - Faster Translations (TLBs) 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Interrupt</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-interrupt/</link>
+      <pubDate>Sat, 10 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-interrupt/</guid>
+      <description>OSTEP 핵심 용어 정리 - Interrupt</description>
     </item>
     <item>
       <title>[OSTEP] Ch.18 - Introduction to Paging</title>
@@ -296,11 +464,25 @@
       <description>OSTEP 메모리 가상화 파트 - Introduction to Paging 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Inode</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-inode/</link>
+      <pubDate>Thu, 08 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-inode/</guid>
+      <description>OSTEP 핵심 용어 정리 - Inode</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.17 - Free Space Management</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch17-free-space-management/</link>
       <pubDate>Thu, 08 Jan 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch17-free-space-management/</guid>
       <description>OSTEP 메모리 가상화 파트 - Free Space Management 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] File System</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-file-system/</link>
+      <pubDate>Tue, 06 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-file-system/</guid>
+      <description>OSTEP 핵심 용어 정리 - File System</description>
     </item>
     <item>
       <title>[OSTEP] Ch.16 - Segmentation</title>
@@ -310,11 +492,25 @@
       <description>OSTEP 메모리 가상화 파트 - Segmentation 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Device Driver</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-device-driver/</link>
+      <pubDate>Sat, 03 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-device-driver/</guid>
+      <description>OSTEP 핵심 용어 정리 - Device Driver</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.15 - Mechanism - Address Translation</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch15-mechanism---address-translation/</link>
       <pubDate>Sat, 03 Jan 2026 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch15-mechanism---address-translation/</guid>
       <description>OSTEP 메모리 가상화 파트 - Mechanism - Address Translation 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Deadlock</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-deadlock/</link>
+      <pubDate>Thu, 01 Jan 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-deadlock/</guid>
+      <description>OSTEP 핵심 용어 정리 - Deadlock</description>
     </item>
     <item>
       <title>[OSTEP] Ch.14 - Interlude - Memory API</title>
@@ -324,11 +520,25 @@
       <description>OSTEP 메모리 가상화 파트 - Interlude - Memory API 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] DMA</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-dma/</link>
+      <pubDate>Tue, 30 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-dma/</guid>
+      <description>OSTEP 핵심 용어 정리 - DMA</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.13 - The Abstraction - Address Spaces</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch13-the-abstraction---address-spaces/</link>
       <pubDate>Mon, 29 Dec 2025 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch13-the-abstraction---address-spaces/</guid>
       <description>OSTEP 메모리 가상화 파트 - The Abstraction - Address Spaces 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Critical Section</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-critical-section/</link>
+      <pubDate>Sat, 27 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-critical-section/</guid>
+      <description>OSTEP 핵심 용어 정리 - Critical Section</description>
     </item>
     <item>
       <title>[OSTEP] Ch.10 - Multiprocessor Scheduling</title>
@@ -338,11 +548,25 @@
       <description>OSTEP CPU 가상화 파트 - Multiprocessor Scheduling 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Copy-on-Write</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-copy-on-write/</link>
+      <pubDate>Thu, 25 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-copy-on-write/</guid>
+      <description>OSTEP 핵심 용어 정리 - Copy-on-Write</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.09 - Scheduling - Proportional Share</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch09-scheduling---proportional-share/</link>
       <pubDate>Thu, 25 Dec 2025 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch09-scheduling---proportional-share/</guid>
       <description>OSTEP CPU 가상화 파트 - Scheduling - Proportional Share 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Context Switch</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-context-switch/</link>
+      <pubDate>Tue, 23 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-context-switch/</guid>
+      <description>OSTEP 핵심 용어 정리 - Context Switch</description>
     </item>
     <item>
       <title>[OSTEP] Ch.08 - Scheduling - The Multi-Level Feedback Queue</title>
@@ -352,11 +576,25 @@
       <description>OSTEP CPU 가상화 파트 - Scheduling - The Multi-Level Feedback Queue 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Condition Variable</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-condition-variable/</link>
+      <pubDate>Sat, 20 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-condition-variable/</guid>
+      <description>OSTEP 핵심 용어 정리 - Condition Variable</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.07 - Scheduling - Introduction</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch07-scheduling---introduction/</link>
       <pubDate>Sat, 20 Dec 2025 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch07-scheduling---introduction/</guid>
       <description>OSTEP CPU 가상화 파트 - Scheduling - Introduction 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Compare-and-Swap (CAS)</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-compare-and-swap-cas/</link>
+      <pubDate>Thu, 18 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-compare-and-swap-cas/</guid>
+      <description>OSTEP 핵심 용어 정리 - Compare-and-Swap (CAS)</description>
     </item>
     <item>
       <title>[OSTEP] Ch.06 - Mechanism - Limited Direct Execution</title>
@@ -366,11 +604,25 @@
       <description>OSTEP CPU 가상화 파트 - Mechanism - Limited Direct Execution 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Buffer Cache</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-buffer-cache/</link>
+      <pubDate>Tue, 16 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-buffer-cache/</guid>
+      <description>OSTEP 핵심 용어 정리 - Buffer Cache</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.05 - Interlude - Process API</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch05-interlude---process-api/</link>
       <pubDate>Mon, 15 Dec 2025 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch05-interlude---process-api/</guid>
       <description>OSTEP CPU 가상화 파트 - Interlude - Process API 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Atomic Operation</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-atomic-operation/</link>
+      <pubDate>Sat, 13 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-atomic-operation/</guid>
+      <description>OSTEP 핵심 용어 정리 - Atomic Operation</description>
     </item>
     <item>
       <title>[OSTEP] Ch.04 - The Abstraction - The Process</title>
@@ -380,11 +632,25 @@
       <description>OSTEP CPU 가상화 파트 - The Abstraction - The Process 정리 노트</description>
     </item>
     <item>
+      <title>[OSTEP 용어] Address Translation</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-address-translation/</link>
+      <pubDate>Thu, 11 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-address-translation/</guid>
+      <description>OSTEP 핵심 용어 정리 - Address Translation</description>
+    </item>
+    <item>
       <title>[OSTEP] Ch.02 - Introduction to Operating Systems</title>
       <link>https://novaeric0426.github.io/posts/ostep-ch02-introduction-to-operating-systems/</link>
       <pubDate>Thu, 11 Dec 2025 10:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/ostep-ch02-introduction-to-operating-systems/</guid>
       <description>OSTEP 가상화 파트 - Introduction to Operating Systems 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP 용어] Address Space</title>
+      <link>https://novaeric0426.github.io/posts/ostep-glossary-address-space/</link>
+      <pubDate>Tue, 09 Dec 2025 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-glossary-address-space/</guid>
+      <description>OSTEP 핵심 용어 정리 - Address Space</description>
     </item>
   </channel>
 </rss>
