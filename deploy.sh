@@ -6,7 +6,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 git submodule update --remote
 
 # Hugo 빌드
-hugo -t Book --gc
+hugo -t PaperMod --gc
 
 # source 브랜치에 빌드 결과 push
 cd public
