@@ -277,4 +277,4 @@ apply_player_state :: proc(player: ^Player, state: ^Net_Player_State) {
 
 ---
 
-*이 시리즈의 전체 소스 코드는 [GitHub](https://github.com/novaeric0426)에서 확인할 수 있습니다.*
+*이 시리즈의 전체 소스 코드는 [GitHub](https://github.com/novaeric0426/odin-fps)에서 확인할 수 있습니다.*
