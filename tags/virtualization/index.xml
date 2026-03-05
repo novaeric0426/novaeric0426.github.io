@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Virtualization on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/virtualization/</link>
+    <description>Recent content in Virtualization on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jan 2026 10:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/virtualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[OSTEP] Ch.23 - Complete Virtual Memory Systems</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch23-complete-virtual-memory-systems/</link>
+      <pubDate>Thu, 22 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch23-complete-virtual-memory-systems/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Complete Virtual Memory Systems 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.22 - Beyond Physical Memory - Policies</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch22-beyond-physical-memory---policies/</link>
+      <pubDate>Mon, 19 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch22-beyond-physical-memory---policies/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Beyond Physical Memory - Policies 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.21 - Beyond Physical Memory - Mechanisms</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch21-beyond-physical-memory---mechanisms/</link>
+      <pubDate>Sat, 17 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch21-beyond-physical-memory---mechanisms/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Beyond Physical Memory - Mechanisms 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.20 - Paging - Smaller Tables</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch20-paging---smaller-tables/</link>
+      <pubDate>Thu, 15 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch20-paging---smaller-tables/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Paging - Smaller Tables 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.19 - Paging - Faster Translations (TLBs)</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch19-paging---faster-translations-tlbs/</link>
+      <pubDate>Mon, 12 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch19-paging---faster-translations-tlbs/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Paging - Faster Translations (TLBs) 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.18 - Introduction to Paging</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch18-introduction-to-paging/</link>
+      <pubDate>Sat, 10 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch18-introduction-to-paging/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Introduction to Paging 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.17 - Free Space Management</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch17-free-space-management/</link>
+      <pubDate>Thu, 08 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch17-free-space-management/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Free Space Management 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.16 - Segmentation</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch16-segmentation/</link>
+      <pubDate>Mon, 05 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch16-segmentation/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Segmentation 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.15 - Mechanism - Address Translation</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch15-mechanism---address-translation/</link>
+      <pubDate>Sat, 03 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch15-mechanism---address-translation/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Mechanism - Address Translation 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.14 - Interlude - Memory API</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch14-interlude---memory-api/</link>
+      <pubDate>Thu, 01 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch14-interlude---memory-api/</guid>
+      <description>OSTEP 메모리 가상화 파트 - Interlude - Memory API 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.13 - The Abstraction - Address Spaces</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch13-the-abstraction---address-spaces/</link>
+      <pubDate>Mon, 29 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch13-the-abstraction---address-spaces/</guid>
+      <description>OSTEP 메모리 가상화 파트 - The Abstraction - Address Spaces 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.10 - Multiprocessor Scheduling</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch10-multiprocessor-scheduling/</link>
+      <pubDate>Sat, 27 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch10-multiprocessor-scheduling/</guid>
+      <description>OSTEP CPU 가상화 파트 - Multiprocessor Scheduling 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.09 - Scheduling - Proportional Share</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch09-scheduling---proportional-share/</link>
+      <pubDate>Thu, 25 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch09-scheduling---proportional-share/</guid>
+      <description>OSTEP CPU 가상화 파트 - Scheduling - Proportional Share 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.08 - Scheduling - The Multi-Level Feedback Queue</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch08-scheduling---the-multi-level-feedback-queue/</link>
+      <pubDate>Mon, 22 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch08-scheduling---the-multi-level-feedback-queue/</guid>
+      <description>OSTEP CPU 가상화 파트 - Scheduling - The Multi-Level Feedback Queue 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.07 - Scheduling - Introduction</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch07-scheduling---introduction/</link>
+      <pubDate>Sat, 20 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch07-scheduling---introduction/</guid>
+      <description>OSTEP CPU 가상화 파트 - Scheduling - Introduction 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.06 - Mechanism - Limited Direct Execution</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch06-mechanism---limited-direct-execution/</link>
+      <pubDate>Thu, 18 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch06-mechanism---limited-direct-execution/</guid>
+      <description>OSTEP CPU 가상화 파트 - Mechanism - Limited Direct Execution 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.05 - Interlude - Process API</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch05-interlude---process-api/</link>
+      <pubDate>Mon, 15 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch05-interlude---process-api/</guid>
+      <description>OSTEP CPU 가상화 파트 - Interlude - Process API 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.04 - The Abstraction - The Process</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch04-the-abstraction---the-process/</link>
+      <pubDate>Sat, 13 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch04-the-abstraction---the-process/</guid>
+      <description>OSTEP CPU 가상화 파트 - The Abstraction - The Process 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.02 - Introduction to Operating Systems</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch02-introduction-to-operating-systems/</link>
+      <pubDate>Thu, 11 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch02-introduction-to-operating-systems/</guid>
+      <description>OSTEP 가상화 파트 - Introduction to Operating Systems 정리 노트</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Concurrency on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/concurrency/</link>
+    <description>Recent content in Concurrency on Alan&#39;s Dev Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Feb 2026 10:00:00 +0900</lastBuildDate>
+    <atom:link href="https://novaeric0426.github.io/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[OSTEP] Ch.33 - Event-based Concurrency</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch33-event-based-concurrency/</link>
+      <pubDate>Mon, 09 Feb 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch33-event-based-concurrency/</guid>
+      <description>OSTEP 동시성 파트 - Event-based Concurrency 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.32 - Common Concurrency Problems</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch32-common-concurrency-problems/</link>
+      <pubDate>Sat, 07 Feb 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch32-common-concurrency-problems/</guid>
+      <description>OSTEP 동시성 파트 - Common Concurrency Problems 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.31 - Semaphores</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch31-semaphores/</link>
+      <pubDate>Thu, 05 Feb 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch31-semaphores/</guid>
+      <description>OSTEP 동시성 파트 - Semaphores 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.30 - Condition Variables</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch30-condition-variables/</link>
+      <pubDate>Mon, 02 Feb 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch30-condition-variables/</guid>
+      <description>OSTEP 동시성 파트 - Condition Variables 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.29 - Lock-based Concurrent Data Structures</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch29-lock-based-concurrent-data-structures/</link>
+      <pubDate>Sat, 31 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch29-lock-based-concurrent-data-structures/</guid>
+      <description>OSTEP 동시성 파트 - Lock-based Concurrent Data Structures 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.28 - Locks</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch28-locks/</link>
+      <pubDate>Thu, 29 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch28-locks/</guid>
+      <description>OSTEP 동시성 파트 - Locks 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.27 - Interlude - Thread API</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch27-interlude---thread-api/</link>
+      <pubDate>Mon, 26 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch27-interlude---thread-api/</guid>
+      <description>OSTEP 동시성 파트 - Interlude - Thread API 정리 노트</description>
+    </item>
+    <item>
+      <title>[OSTEP] Ch.26 - Concurrency - An Introduction</title>
+      <link>https://novaeric0426.github.io/posts/ostep-ch26-concurrency---an-introduction/</link>
+      <pubDate>Sat, 24 Jan 2026 10:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/ostep-ch26-concurrency---an-introduction/</guid>
+      <description>OSTEP 동시성 파트 - Concurrency - An Introduction 정리 노트</description>
+    </item>
+  </channel>
+</rss>
