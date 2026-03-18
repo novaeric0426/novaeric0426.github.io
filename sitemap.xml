@@ -2,13 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://novaeric0426.github.io/posts/ostep-glossary-virtual-address-space/</loc>
-    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://novaeric0426.github.io/</loc>
-    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/categories/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/fps/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/series/fps-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/fps-devlog-18-lag-compensation/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/categories/game-dev/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/odin/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/raylib/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/series/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/%EB%A0%89%EB%B3%B4%EC%83%81/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/tags/%EC%84%9C%EB%B2%84/</loc>
+    <lastmod>2026-03-15T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://novaeric0426.github.io/posts/ostep-glossary-virtual-address-space/</loc>
     <lastmod>2026-03-05T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/categories/os/</loc>
@@ -26,46 +68,16 @@
     <loc>https://novaeric0426.github.io/series/ostep-%EC%A0%95%EB%A6%AC/</loc>
     <lastmod>2026-03-05T18:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://novaeric0426.github.io/posts/</loc>
-    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/series/</loc>
-    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/</loc>
-    <lastmod>2026-03-05T18:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://novaeric0426.github.io/posts/ostep-ch45-data-integrity-and-protection/</loc>
     <lastmod>2026-03-05T10:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/tags/persistence/</loc>
     <lastmod>2026-03-05T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://novaeric0426.github.io/tags/fps/</loc>
-    <lastmod>2026-03-04T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/series/fps-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/</loc>
-    <lastmod>2026-03-04T18:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-17-pvp-combat/</loc>
     <lastmod>2026-03-04T18:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://novaeric0426.github.io/categories/game-dev/</loc>
-    <lastmod>2026-03-04T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/odin/</loc>
-    <lastmod>2026-03-04T18:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://novaeric0426.github.io/tags/pvp/</loc>
-    <lastmod>2026-03-04T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/raylib/</loc>
-    <lastmod>2026-03-04T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C/</loc>
-    <lastmod>2026-03-04T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4/</loc>
     <lastmod>2026-03-04T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/tags/%ED%9E%88%ED%8A%B8%EC%8A%A4%EC%BA%94/</loc>
@@ -75,9 +87,6 @@
     <lastmod>2026-03-03T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-16-entity-interpolation/</loc>
-    <lastmod>2026-03-03T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9/</loc>
     <lastmod>2026-03-03T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/tags/%EB%B3%B4%EA%B0%84/</loc>
@@ -102,9 +111,6 @@
     <lastmod>2026-03-01T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/tags/udp/</loc>
-    <lastmod>2026-03-01T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://novaeric0426.github.io/tags/%EC%84%9C%EB%B2%84/</loc>
     <lastmod>2026-03-01T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://novaeric0426.github.io/posts/fps-devlog-12-fixed-timestep/</loc>

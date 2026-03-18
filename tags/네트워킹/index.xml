@@ -4,10 +4,17 @@
     <title>네트워킹 on Alan&#39;s Dev Blog</title>
     <link>https://novaeric0426.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9/</link>
     <description>Recent content in 네트워킹 on Alan&#39;s Dev Blog</description>
-    <generator>Hugo -- 0.157.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 18:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 18:00:00 +0900</lastBuildDate>
     <atom:link href="https://novaeric0426.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPS 개발일지 #18 — 서버 사이드 렉 보상</title>
+      <link>https://novaeric0426.github.io/posts/fps-devlog-18-lag-compensation/</link>
+      <pubDate>Sun, 15 Mar 2026 18:00:00 +0900</pubDate>
+      <guid>https://novaeric0426.github.io/posts/fps-devlog-18-lag-compensation/</guid>
+      <description>네트워크 지연 환경에서도 공정한 히트 판정을 위해 서버가 과거 시점으로 되감아 레이캐스트하는 렉 보상을 구현한다.</description>
+    </item>
     <item>
       <title>FPS 개발일지 #16 — 엔티티 보간</title>
       <link>https://novaeric0426.github.io/posts/fps-devlog-16-entity-interpolation/</link>

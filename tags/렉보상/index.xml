@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>서버 on Alan&#39;s Dev Blog</title>
-    <link>https://novaeric0426.github.io/tags/%EC%84%9C%EB%B2%84/</link>
-    <description>Recent content in 서버 on Alan&#39;s Dev Blog</description>
+    <title>렉보상 on Alan&#39;s Dev Blog</title>
+    <link>https://novaeric0426.github.io/tags/%EB%A0%89%EB%B3%B4%EC%83%81/</link>
+    <description>Recent content in 렉보상 on Alan&#39;s Dev Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Mar 2026 18:00:00 +0900</lastBuildDate>
-    <atom:link href="https://novaeric0426.github.io/tags/%EC%84%9C%EB%B2%84/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://novaeric0426.github.io/tags/%EB%A0%89%EB%B3%B4%EC%83%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FPS 개발일지 #18 — 서버 사이드 렉 보상</title>
       <link>https://novaeric0426.github.io/posts/fps-devlog-18-lag-compensation/</link>
       <pubDate>Sun, 15 Mar 2026 18:00:00 +0900</pubDate>
       <guid>https://novaeric0426.github.io/posts/fps-devlog-18-lag-compensation/</guid>
       <description>네트워크 지연 환경에서도 공정한 히트 판정을 위해 서버가 과거 시점으로 되감아 레이캐스트하는 렉 보상을 구현한다.</description>
-    </item>
-    <item>
-      <title>FPS 개발일지 #13 — UDP 네트워킹과 권위 서버</title>
-      <link>https://novaeric0426.github.io/posts/fps-devlog-13-udp-authoritative-server/</link>
-      <pubDate>Sun, 01 Mar 2026 19:00:00 +0900</pubDate>
-      <guid>https://novaeric0426.github.io/posts/fps-devlog-13-udp-authoritative-server/</guid>
-      <description>UDP 소켓 통신, 패킷 프로토콜, 전용 서버/클라이언트 구조를 구현한다. 권위 서버 아키텍처의 기본.</description>
     </item>
   </channel>
 </rss>
